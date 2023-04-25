@@ -1,0 +1,15 @@
+.flex-container {
+    width:100%;
+
+
+}
+.flex-container ul{
+    display:flex;
+    flex-direction: row;/*just to indicate direction ..not necessary*/
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none; /*to remove dot */
+
+}
+   
+

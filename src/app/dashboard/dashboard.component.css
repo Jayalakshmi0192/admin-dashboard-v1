@@ -1,0 +1,19 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.area{
+    margin: 20px 0px;
+}
+.tablepie{
+    display: flex;
+    flex-wrap: wrap;/*for responsive aakan vendi..automaticall ath wrap aakan */
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.tablepie .table{
+ width:55%;
+}
+.tablepie .pie{
+    width:40%;
+   }
